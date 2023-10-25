@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSP.Domain.AplicationServic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSP.Domain.Services", "..\BSP.Domain.Services\BSP.Domain.Services.csproj", "{E8400BE3-3424-4709-8D74-27CC0C4F882C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSP.Infrastructures.Database.Repos.Ef", "..\BSP.Infrastructures.Database.Repos.Ef\BSP.Infrastructures.Database.Repos.Ef.csproj", "{96C13C41-4841-40AF-8074-DFC3C7703724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSP.Infrastructures.Database.SqlServer", "..\BSP.Infrastructures.Database.SqlServer\BSP.Infrastructures.Database.SqlServer.csproj", "{6A169316-BD54-4383-A1D0-E887F07D6219}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,14 @@ Global
 		{E8400BE3-3424-4709-8D74-27CC0C4F882C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8400BE3-3424-4709-8D74-27CC0C4F882C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8400BE3-3424-4709-8D74-27CC0C4F882C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C13C41-4841-40AF-8074-DFC3C7703724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C13C41-4841-40AF-8074-DFC3C7703724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C13C41-4841-40AF-8074-DFC3C7703724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C13C41-4841-40AF-8074-DFC3C7703724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A169316-BD54-4383-A1D0-E887F07D6219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A169316-BD54-4383-A1D0-E887F07D6219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A169316-BD54-4383-A1D0-E887F07D6219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A169316-BD54-4383-A1D0-E887F07D6219}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +65,8 @@ Global
 		{491931D6-FFDF-4D1E-A47F-A362E1BA2354} = {14E6B4C1-D4A1-42B1-8A26-A5F77DBBDEE1}
 		{F404B7B5-72F0-422B-91B8-DAD78829DD12} = {C202BECD-0E79-4381-AB0B-9801EDC77C35}
 		{E8400BE3-3424-4709-8D74-27CC0C4F882C} = {C202BECD-0E79-4381-AB0B-9801EDC77C35}
+		{96C13C41-4841-40AF-8074-DFC3C7703724} = {115F835D-6FFA-4503-9268-AF813F5698B2}
+		{6A169316-BD54-4383-A1D0-E887F07D6219} = {115F835D-6FFA-4503-9268-AF813F5698B2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FE45CFE6-F8ED-40FA-8C83-01FDE2A3A2EA}
