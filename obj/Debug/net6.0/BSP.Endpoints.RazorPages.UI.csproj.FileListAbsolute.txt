@@ -1,0 +1,8 @@
+C:\Users\partrayan\source\repos\BuySellPro\obj\Debug\net6.0\BSP.Endpoints.RazorPages.UI.csproj.AssemblyReference.cache
+C:\Users\partrayan\source\repos\BuySellPro\obj\Debug\net6.0\BSP.Endpoints.RazorPages.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\partrayan\source\repos\BuySellPro\obj\Debug\net6.0\BSP.Endpoints.RazorPages.UI.AssemblyInfoInputs.cache
+C:\Users\partrayan\source\repos\BuySellPro\obj\Debug\net6.0\BSP.Endpoints.RazorPages.UI.AssemblyInfo.cs
+C:\Users\partrayan\source\repos\BuySellPro\obj\Debug\net6.0\BSP.Endpoints.RazorPages.UI.csproj.CoreCompileInputs.cache
+C:\Users\partrayan\source\repos\BuySellPro\obj\Debug\net6.0\BSP.Endpoints.RazorPages.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\partrayan\source\repos\BuySellPro\obj\Debug\net6.0\BSP.Endpoints.RazorPages.UI.RazorAssemblyInfo.cache
+C:\Users\partrayan\source\repos\BuySellPro\obj\Debug\net6.0\BSP.Endpoints.RazorPages.UI.RazorAssemblyInfo.cs
