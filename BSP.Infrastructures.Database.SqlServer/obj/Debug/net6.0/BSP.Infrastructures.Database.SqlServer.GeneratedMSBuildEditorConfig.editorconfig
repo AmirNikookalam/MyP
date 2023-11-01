@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BSP.Infrastructures.Database.SqlServer
-build_property.ProjectDir = E:\Amir - .Net Core\BSP\BSP.Infrastructures.Database.SqlServer\
+build_property.ProjectDir = C:\Users\partrayan\source\repos\BuySellPro\BSP.Infrastructures.Database.SqlServer\

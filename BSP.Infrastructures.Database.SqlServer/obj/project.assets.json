@@ -3856,23 +3856,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fatemeh\\.nuget\\packages\\": {},
+    "C:\\Users\\partrayan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Amir - .Net Core\\BSP\\BSP.Infrastructures.Database.SqlServer\\BSP.Infrastructures.Database.SqlServer.csproj",
+      "projectUniqueName": "C:\\Users\\partrayan\\source\\repos\\BuySellPro\\BSP.Infrastructures.Database.SqlServer\\BSP.Infrastructures.Database.SqlServer.csproj",
       "projectName": "BSP.Infrastructures.Database.SqlServer",
-      "projectPath": "E:\\Amir - .Net Core\\BSP\\BSP.Infrastructures.Database.SqlServer\\BSP.Infrastructures.Database.SqlServer.csproj",
-      "packagesPath": "C:\\Users\\Fatemeh\\.nuget\\packages\\",
-      "outputPath": "E:\\Amir - .Net Core\\BSP\\BSP.Infrastructures.Database.SqlServer\\obj\\",
+      "projectPath": "C:\\Users\\partrayan\\source\\repos\\BuySellPro\\BSP.Infrastructures.Database.SqlServer\\BSP.Infrastructures.Database.SqlServer.csproj",
+      "packagesPath": "C:\\Users\\partrayan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\partrayan\\source\\repos\\BuySellPro\\BSP.Infrastructures.Database.SqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fatemeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\partrayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3881,7 +3881,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3937,7 +3936,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
